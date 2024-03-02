@@ -1,6 +1,9 @@
-# Linear_Regression_and_Robustness_R
+# Analysis-of-houses-in-California_Linear-Regression
 
-- R code.R
+Analysis of houses in California data
+
+- Analysis of houses in California report.pdf
+- Analysis of houses in California.R
 - train.csv
 - test.csv
-- Report.pdf
+
